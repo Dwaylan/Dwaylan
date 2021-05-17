@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 The name's Dwaylan but you can call me Dway
+Pronouns: He/Him/His
+I am a fullstack devloper looking to collaborate on React.js projects! Got a knack for UX and all things CSS? Lets chat? 
 [![Dwaylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwaylan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
