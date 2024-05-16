@@ -3,7 +3,7 @@
 
 I am a Fullstack software engineer looking to collaborate on React.js projects! Got a knack for UX and all things CSS? Let's chat!
 
-Skills: JavaScrip || Typescript || Python || SQL || React.js || Google Cloud (GCP)
+Skills: JavaScript || Typescript || Python || SQL || React.js || Google Cloud (GCP)
 
 - 🌱 I am ALWAYS learning 
 - 👯 I’m looking to collaborate on React.js projects so feel free to reach out! 
