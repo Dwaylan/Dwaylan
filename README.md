@@ -13,7 +13,5 @@ Skills: JavaScript || Typescript || Python || SQL || React.js || Google Cloud (G
 - ⚡ Fun fact: I'm in the 10% of the global population that is left-handed! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dwaylan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dwaylan-applewhite-he-him-his-0643b1a7//)
-
  
 
